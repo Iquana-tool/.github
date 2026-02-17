@@ -53,15 +53,4 @@ Initial usability tests with marine ecologists showed:
 
 ## 📖 Citation
 
-If you use IQUANA in your research, please cite our work:
-
-```bibtex
-@inproceedings{leist2026iquana,
-  title={From Exemplars to Analysis: A Unified Tool for Prompted Segmentation, Instance Discovery, and Object-Level Quantification in Coral Research},
-  author={Leist, Robert Andreas and Doddanawar, Prathmesh and Gouvêa, Thiago S. and Sonntag, Daniel},
-  booktitle={Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)},
-  year={2026}
-}
-
-
-Video Showcase: Link to Video.
+To be published.
