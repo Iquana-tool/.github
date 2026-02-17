@@ -4,22 +4,23 @@
 
 ---
 
-## 🚀 Key Features
+## 🎬 Demo Video
 
-* **AI-Assisted Efficiency**: Provides streamlined workflows that integrate AI at multiple stages to improve annotation speed and quality.
-* **Nested Object Structures**: Utilizes a novel data model that supports hierarchical relationships between organisms and their morphological features (e.g., relating polyps to specific corals).
-* **User-Centric Design**: Features a modern, accessible interface tailored specifically for non-ML domain experts.
-* **Object-Level Data**: Saves annotations with hierarchy information to enable nested segmentation for improved downstream analysis.
+[![Watch the IQUANA Demo](iquana_thumbnail.png)](https://dfkide-my.sharepoint.com/:v:/g/personal/role01_dfki_de/IQAGAHqvai8tS4_1TRPNgQFVAWqFdM53Z5_sVYn9nE8NZII?e=rfB36S)
+
+> **Note:** If the link above does not open, please ensure you have the necessary permissions to view the SharePoint resource.
 
 ---
 
-## 🛠 Core Functionalities
+## 🚀 Key Features
 
-The tool offers three primary AI-driven computer vision capabilities:
-
-1.  **Prompted Segmentation**: Generates detailed instance masks from simple inputs like points or bounding boxes. IQUANA integrates the **SAM 2.1** model for this purpose.
-2.  **Exemplar-based Instance Discovery**: Finds target objects by providing exemplary instances of the target class. This is powered by **SAM 3** and **GeCo**.
-3.  **Semantic Segmentation**: Predicts labels for every pixel based on a defined classification scheme. Integrated networks include **UNet**, **DeepLab**, and their extensions.
+* **AI-Assisted Efficiency**: Provides streamlined workflows that integrate AI at multiple stages to improve annotation speed and quality.
+    1.  **Prompted Segmentation**: Generates detailed instance masks from simple inputs like points or bounding boxes. IQUANA integrates the **SAM 2.1** model for this purpose.
+    2.  **Exemplar-based Instance Discovery**: Finds target objects by providing exemplary instances of the target class. This is powered by **SAM 3** and **GeCo**.
+    3.  **Semantic Segmentation**: Predicts labels for every pixel based on a defined classification scheme. Integrated networks include **UNet**, **DeepLab**, and their extensions.
+* **Nested Object Structures**: Utilizes a novel data model that supports hierarchical relationships between organisms and their morphological features (e.g., relating polyps to specific corals).
+* **User-Centric Design**: Features a modern, accessible interface tailored specifically for non-ML domain experts.
+* **Object-Level Data**: Saves annotations with hierarchy information to enable nested segmentation for improved downstream analysis.
 
 ---
 
@@ -40,14 +41,6 @@ Initial usability tests with marine ecologists showed:
 * **Usability**: A System Usability Scale (SUS) score of **85**.
 * **Cognitive Load**: A low raw NASA-TLX score of **20**.
 * **Efficiency**: Users described prompted segmentation as "way better and faster" than traditional manual approaches.
-
----
-
-## 🎬 Demo Video
-
-[![Watch the IQUANA Demo](https://img.shields.io/badge/Play_Demo-Video-blue?style=for-the-badge&logo=microsoftsharepoint)](https://dfkide-my.sharepoint.com/:v:/g/personal/role01_dfki_de/IQAGAHqvai8tS4_1TRPNgQFVAWqFdM53Z5_sVYn9nE8NZII?e=rfB36S)
-
-> **Note:** If the link above does not open, please ensure you have the necessary permissions to view the SharePoint resource.
 
 ---
 
