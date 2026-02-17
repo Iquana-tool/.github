@@ -42,7 +42,7 @@ Initial usability tests with marine ecologists showed:
 * **Usability**: A System Usability Scale (SUS) score of **85**.
 * **Cognitive Load**: A low raw NASA-TLX score of **20**.
 * **Efficiency**: Users described prompted segmentation as "way better and faster" than traditional manual approaches.
-> [!Info]
+> [!Note]
 > You can find the results of the questionnaires and a transcript of the session here: [Supplementary Material](https://github.com/Iquana-tool/supplementary-material)
 ---
 
